@@ -6,9 +6,8 @@
   - Francisca Henríquez
 
 
-#Instrucciones
+# Métodologia
 
-Se busco relizar una clasificación de imagenes en donde se encontraban imagenes de paltas sanas y con la enfermedades de Roña y Antracnosis.
-Las imagenes usadas se encuentran en el siguiente link
+Se busco relizar una clasificación de imágenes en donde se encontraban imagenes de paltas sanas y con la enfermedades de Roña y Antracnosis, esto se realiza usando CNN y como método de XAI se eligio usar Grad-Cam. Tando la CNN como Grad-Cam se encuentran desarrollados en Jupyter Notebook.
 
-Y para clasificarlas se decidio usar Python para crear y las CNN.
+Las imagenes usadas se encuentran en el siguiente [Link](https://www.kaggle.com/datasets/camposfe1/clasifiacin-de-enfermedades-del-aguacatero)
